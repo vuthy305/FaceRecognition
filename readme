@@ -1,0 +1,7 @@
+After cloning the project from github reporsitory sucessfully there are some tips that you need to 
+do for using this application:
+- Firstly:  We need to run " pip install -r requirements.txt " (It's tell the computer to install the require library used in 
+project.)
+- Secondly: After installation successed. We just type " python main.py "
+- Thirdly: After you type the command above. The GUI will be show. In this case we need to click on Train Images Button. 
+we did this because. At the current time, there was no image was trained.
